@@ -90,7 +90,7 @@ class _MyAppState extends State<MyApp> {
               },
               child: GestureDetector(
                   onTap: () {
-                    print("chiqdi");
+                    print("ch");
                     Navigator.push(
                         context,
                         MaterialPageRoute(
